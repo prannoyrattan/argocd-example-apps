@@ -86,85 +86,125 @@ spec:
             url: https://kubernetes.default.svc
           - cluster: cluster40
             url: https://kubernetes.default.svc
-          - cluster: muster1
+          - cluster: cluster41
             url: https://kubernetes.default.svc
-          - cluster: muster2
+          - cluster: cluster42
             url: https://kubernetes.default.svc
-          - cluster: muster3
+          - cluster: cluster43
             url: https://kubernetes.default.svc
-          - cluster: muster4
+          - cluster: cluster44
             url: https://kubernetes.default.svc
-          - cluster: muster5
+          - cluster: cluster45
             url: https://kubernetes.default.svc
-          - cluster: muster6
+          - cluster: cluster46
             url: https://kubernetes.default.svc
-          - cluster: muster7
+          - cluster: cluster47
             url: https://kubernetes.default.svc
-          - cluster: muster8
+          - cluster: cluster48
             url: https://kubernetes.default.svc
-          - cluster: muster9
+          - cluster: cluster49
             url: https://kubernetes.default.svc
-          - cluster: muster10
+          - cluster: cluster50
             url: https://kubernetes.default.svc
-          - cluster: muster11
+          - cluster: cluster51
             url: https://kubernetes.default.svc
-          - cluster: muster12
+          - cluster: cluster52
             url: https://kubernetes.default.svc
-          - cluster: muster13
+          - cluster: cluster53
             url: https://kubernetes.default.svc
-          - cluster: muster14
+          - cluster: cluster54
             url: https://kubernetes.default.svc
-          - cluster: muster15
+          - cluster: cluster55
             url: https://kubernetes.default.svc
-          - cluster: muster16
+          - cluster: cluster56
             url: https://kubernetes.default.svc
-          - cluster: muster17
+          - cluster: cluster57
             url: https://kubernetes.default.svc
-          - cluster: muster18
+          - cluster: cluster58
             url: https://kubernetes.default.svc
-          - cluster: muster19
+          - cluster: cluster59
             url: https://kubernetes.default.svc
-          - cluster: muster20
+          - cluster: cluster60
             url: https://kubernetes.default.svc
-          - cluster: muster21
+          - cluster: cluster61
             url: https://kubernetes.default.svc
-          - cluster: muster22
+          - cluster: cluster62
             url: https://kubernetes.default.svc
-          - cluster: muster23
+          - cluster: cluster63
             url: https://kubernetes.default.svc
-          - cluster: muster24
+          - cluster: cluster64
             url: https://kubernetes.default.svc
-          - cluster: muster25
+          - cluster: cluster65
             url: https://kubernetes.default.svc
-          - cluster: muster26
+          - cluster: cluster66
             url: https://kubernetes.default.svc
-          - cluster: muster27
+          - cluster: cluster67
             url: https://kubernetes.default.svc
-          - cluster: muster28
+          - cluster: cluster68
             url: https://kubernetes.default.svc
-          - cluster: muster29
+          - cluster: cluster69
             url: https://kubernetes.default.svc
-          - cluster: muster30
+          - cluster: cluster70
             url: https://kubernetes.default.svc
-          - cluster: muster31
+          - cluster: cluster71
             url: https://kubernetes.default.svc
-          - cluster: muster32
+          - cluster: cluster72
             url: https://kubernetes.default.svc
-          - cluster: muster33
+          - cluster: cluster73
             url: https://kubernetes.default.svc
-          - cluster: muster34
+          - cluster: cluster74
             url: https://kubernetes.default.svc
-          - cluster: muster35
+          - cluster: cluster75
             url: https://kubernetes.default.svc
-          - cluster: muster36
+          - cluster: cluster76
             url: https://kubernetes.default.svc
-          - cluster: muster37
+          - cluster: cluster77
             url: https://kubernetes.default.svc
-          - cluster: muster38
+          - cluster: cluster78
             url: https://kubernetes.default.svc
-          - cluster: muster39
+          - cluster: cluster79
             url: https://kubernetes.default.svc
-          - cluster: muster40
+          - cluster: cluster80
+            url: https://kubernetes.default.svc 
+          - cluster: cluster81
+            url: https://kubernetes.default.svc
+          - cluster: cluster82
+            url: https://kubernetes.default.svc
+          - cluster: cluster83
+            url: https://kubernetes.default.svc
+          - cluster: cluster84
+            url: https://kubernetes.default.svc
+          - cluster: cluster85
+            url: https://kubernetes.default.svc
+          - cluster: cluster86
+            url: https://kubernetes.default.svc
+          - cluster: cluster87
+            url: https://kubernetes.default.svc
+          - cluster: cluster88
+            url: https://kubernetes.default.svc
+          - cluster: cluster89
+            url: https://kubernetes.default.svc
+          - cluster: cluster90
+            url: https://kubernetes.default.svc
+          - cluster: cluster91
+            url: https://kubernetes.default.svc
+          - cluster: cluster92
+            url: https://kubernetes.default.svc
+          - cluster: cluster93
+            url: https://kubernetes.default.svc
+          - cluster: cluster94
+            url: https://kubernetes.default.svc
+          - cluster: cluster95
+            url: https://kubernetes.default.svc
+          - cluster: cluster96
+            url: https://kubernetes.default.svc
+          - cluster: cluster97
+            url: https://kubernetes.default.svc
+          - cluster: cluster98
+            url: https://kubernetes.default.svc
+          - cluster: cluster99
+            url: https://kubernetes.default.svc
+          - cluster: cluster100
             url: https://kubernetes.default.svc
   template:
     metadata:
