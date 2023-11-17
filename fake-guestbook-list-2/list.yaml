@@ -4014,7 +4014,7 @@ spec:
       source:
         repoURL: https://github.com/prannoyrattan/argocd-example-apps.git
         targetRevision: CBPtest
-        path: fake-guestbook-list/fake-guestbook-2
+        path: fake-guestbook-list-2/fake-guestbook
       destination:
         server: '{{url}}'
         namespace: '{{cluster}}-guestbook'
