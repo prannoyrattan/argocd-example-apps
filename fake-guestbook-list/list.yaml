@@ -210,10 +210,10 @@ spec:
     metadata:
       name: '{{cluster}}-guestbook'
     spec:
-      project: 2e65b2031
+      project: 2e65b203
       source:
         repoURL: https://github.com/prannoyrattan/argocd-example-apps.git
-        targetRevision: CBPtest
+        targetRevision: CBPtestt
         path: fake-guestbook-list/fake-guestbook
       destination:
         server: '{{url}}'
