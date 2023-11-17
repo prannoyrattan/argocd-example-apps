@@ -225,4 +225,4 @@ spec:
         syncOptions:
         - CreateNamespace=true
         - Prune=true
-        - PruneLast=true
+        - PruneLast=true 
