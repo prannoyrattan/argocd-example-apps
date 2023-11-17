@@ -213,7 +213,7 @@ spec:
       project: 2e65b203
       source:
         repoURL: https://github.com/mteodor/argocd-example-apps.git
-        targetRevision: HEAD
+        targetRevision: CBPtest
         path: fake-guestbook-list/fake-guestbook
       destination:
         server: '{{url}}'
