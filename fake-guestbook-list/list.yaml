@@ -210,7 +210,7 @@ spec:
     metadata:
       name: '{{cluster}}-guestbook'
     spec:
-      project: 2e65b203
+      project: 2e65b2031
       source:
         repoURL: https://github.com/prannoyrattan/argocd-example-apps.git
         targetRevision: CBPtest
